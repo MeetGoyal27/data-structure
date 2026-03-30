@@ -23,10 +23,16 @@ class MyStack {
     }
     
     public int pop() {
+        if(main.isEmpty()){
+            return -1;
+        }
         return main.remove();
     }
     
     public int top() {
+        if(main.isEmpty()){
+            return -1;
+        }
         return main.peek();
     }
     
