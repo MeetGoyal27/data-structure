@@ -2,7 +2,7 @@ class Solution {
     public int[] asteroidCollision(int[] asteroids) {
         Stack<Integer> st = new Stack<>();
         for(int i=0;i<asteroids.length;i++){
-            if(asteroids[i]>0){
+            if(asteroids[i]>0 || st.isEmpty()){
                 st.push(asteroids[i]);
             }
             else{
