@@ -1,24 +1,19 @@
- class Solution {
-    public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<>();
-
-        dfs(0, 0, "", n, res);
-
-        return res;        
-    }
-
-    private void dfs(int openP, int closeP, String s, int n, List<String> res) {
-        if (openP == n && closeP == n) {
-            res.add(s);
+class Solution {
+    public void fun(int open,int close,List<String> list,String s,int n){
+        if(open == n && close == n){
+            list.add(s);
             return;
         }
-
-        if (openP < n) {
-            dfs(openP + 1, closeP, s + "(", n, res);
+        if(open<n){
+            fun(open+1,close,list,s+"(",n);
         }
-
-        if (closeP < openP) {
-            dfs(openP, closeP + 1, s + ")", n, res);
+        if(open>close){
+            fun(open,close+1,list,s+")",n);
         }
-    }    
+    }
+    public List<String> generateParenthesis(int n) {
+        List<String> list = new ArrayList<>();
+        fun(0,0,list,"",n);
+        return list;
+    }
 }
