@@ -1,35 +1,26 @@
-import java.util.*;
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-
-        //Best case:-compute left max and right max for every window 
-        int n=nums.length;
-        int[] left_max= new int[n];
-        int[] right_max=new int[n];
-        int[] ans= new int[n-k+1];
-
-        for(int i=0;i<n;i++){
-            if(i%k==0){
-                left_max[i]=nums[i];
+        Deque<Integer> dq = new ArrayDeque<>();
+        int[] ans = new int[nums.length-k+1];
+        int index = 0;
+        while(index<k){
+            while(dq.size()>0 && nums[index] >= nums[dq.peekLast()]){
+                dq.pollLast();
             }
-            else{
-                left_max[i]=Math.max(left_max[i-1],nums[i]);
-            }
+            dq.offerLast(index);
+            index++;
         }
-
-        for(int i=n-1;i>=0;i--){
-            if(i%k==0 || i==n-1){
-                right_max[i]=nums[i];
+        ans[0] = nums[dq.peekFirst()];
+        for(int i=1;i<nums.length-k+1;i++){
+            if(dq.size()>0 && dq.peekFirst() <= i-1){
+                dq.pollFirst();
             }
-            else{
-                right_max[i]=Math.max(right_max[i+1],nums[i]);
+             while(dq.size()>0 && nums[i+k-1] >= nums[dq.peekLast()]){
+                dq.pollLast();
             }
+            dq.offerLast(i+k-1);
+            ans[i] = nums[dq.peekFirst()];
         }
-
-        for(int i=0;i<ans.length;i++){
-            ans[i]=Math.max(right_max[i],left_max[i+k-1]);
-        }
-
         return ans;
     }
 }
