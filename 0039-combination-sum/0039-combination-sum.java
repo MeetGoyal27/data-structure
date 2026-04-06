@@ -1,26 +1,23 @@
 class Solution {
-
-    public void solution(int idx,int[] candidates,int target,List<List<Integer>> res,List<Integer> des){
-        if(idx == candidates.length){
-            if(target == 0){
-                res.add(new ArrayList<>(des));
-            }
+    private void sana(List<List<Integer>> ls, List<Integer> l, int[] arr, int index, int sum,int target){
+        if(sum == target){
+            ls.add(new ArrayList(l));
             return;
         }
-         if(candidates[idx] <= target){
-        des.add(candidates[idx]);
-        solution(idx,candidates,target-candidates[idx],res,des);
-        des.remove(des.size()-1);
-         }
-        solution(idx+1,candidates,target,res,des);
-    }
-    
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        if(sum > target) return;
+        if(index == arr.length) return;
 
-        List<List<Integer>> res = new ArrayList<>();
-        List<Integer> des = new ArrayList<>();
-        solution(0,candidates,target,res,des);
-        return res;
-        
+        l.add(arr[index]);
+        sana(ls,l,arr,index,sum+arr[index],target);
+
+        l.remove(l.size()-1);
+        sana(ls,l,arr,index+1,sum,target);
+
+    }
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> ls = new ArrayList<>();
+        List<Integer> l = new ArrayList<>();
+        sana(ls,l,candidates,0,0,target);
+        return ls;
     }
 }
