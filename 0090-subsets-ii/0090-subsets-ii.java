@@ -8,14 +8,17 @@ class Solution {
     }
     static void rec(int i,int[] nums,List<Integer> ds,List<List<Integer>> ans){
         if(i==nums.length){
-            if(!ans.contains(ds))
             ans.add(new ArrayList<>(ds));
             return;
         }
         ds.add(nums[i]);
         rec(i+1,nums,ds,ans);
         ds.remove(ds.size()-1);
-        rec(i+1,nums,ds,ans);
+        int idx = i+1;
+        while(idx < nums.length && nums[idx] == nums[idx-1]){
+            idx++;
+        }
+        rec(idx,nums,ds,ans);
         
     }
 }
