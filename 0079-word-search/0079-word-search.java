@@ -1,37 +1,39 @@
 class Solution {
-    public boolean exist(char[][] board, String word) {
-        for(int r=0; r<board.length; r++){
-            for(int c=0; c<board[0].length; c++){
-                if(board[r][c]==word.charAt(0) && help(board,word,0,r,c))
-                    return true;
-            }
+    public boolean fun(char[][] board,int row,int col,String word,int idx){
+        int m = board.length;
+        int n = board[0].length;
+        if(idx == word.length()){
+            return true;
         }
-        
+        if(row < 0 || col < 0 || row == m || col == n){
+            return false;
+        }
+        if(board[row][col] != word.charAt(idx)){
+            return false;
+        }
+        if(board[row][col] == '.'){
+            return false;
+        }
+        char ch = board[row][col];
+        board[row][col] = '.';
+        if(fun(board,row+1,col,word,idx+1) || fun(board,row,col+1,word,idx+1) || fun(board,row-1,col,word,idx+1) || fun(board,row,col-1,word,idx+1)){
+            return true;
+        }
+        board[row][col] = ch;
         return false;
     }
-   public boolean help(char[][] b, String word, int start, int r, int c){
-        /* once we get past word.length, we are done. */
-        if(word.length() <= start)
-            return true;
-        
-        /* if off bounds, letter is seen, letter is unequal to word.charAt(start) return false */
-        if(r<0 ||c<0 || r>=b.length || c>=b[0].length || b[r][c]=='0' || b[r][c]!=word.charAt(start))
-            return false;
-        
-        /* set this board position to seen. (Because we can use this postion) */
-        char tmp = b[r][c];
-        b[r][c] = '0';
-        
-        /* recursion on all 4 sides for next letter, if works: return true */
-        if(help(b,word,start+1,r+1,c) ||
-          help(b,word,start+1,r-1,c) ||
-          help(b,word,start+1,r,c+1) ||
-          help(b,word,start+1,r,c-1))
-            return true;
-        
-        //Set back to unseen
-        b[r][c] = tmp;
-        
+    public boolean exist(char[][] board, String word){
+        int m = board.length;
+        int n = board[0].length;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(board[i][j] == word.charAt(0)){
+                    if(fun(board,i,j,word,0)){
+                        return true;
+                    }
+                }
+            }
+        }
         return false;
-   }
+    }
 }
