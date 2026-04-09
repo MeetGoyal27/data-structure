@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MeetGoyal27/data-structure/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MeetGoyal27/data-structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MeetGoyal27/data-structure/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/MeetGoyal27/data-structure/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/MeetGoyal27/data-structure/tree/master/0496-next-greater-element-i) |
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/MeetGoyal27/data-structure/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MeetGoyal27/data-structure/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MeetGoyal27/data-structure/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MeetGoyal27/data-structure/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0090-subsets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
