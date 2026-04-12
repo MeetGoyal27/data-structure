@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/MeetGoyal27/data-structure/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/MeetGoyal27/data-structure/tree/master/0263-ugly-number) |
 | [3099-harshad-number](https://github.com/MeetGoyal27/data-structure/tree/master/3099-harshad-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/MeetGoyal27/data-structure/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0090-subsets-ii) |
 ## Depth-First Search
