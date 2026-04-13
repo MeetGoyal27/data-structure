@@ -11,16 +11,16 @@ class Solution {
         }
         return true;
     }
-    public void fun(String s,List<String> li,List<List<String>> list){
-        if(s.length() == 0){
+    public void fun(String st,List<String> li,List<List<String>> list){
+        if(st.length() == 0){
             list.add(new ArrayList<>(li));
             return;
         }
-        for(int i=0;i<s.length();i++){
-            String str = s.substring(0,i+1);
-            if(isPalindrome(str)){
-                li.add(str);
-                fun(s.substring(i+1),li,list);
+        for(int i=0;i<st.length();i++){
+            String sub = st.substring(0,i+1);
+            if(isPalindrome(sub)){
+                li.add(sub);
+                fun(st.substring(i+1),li,list);
                 li.remove(li.size()-1);
             }
         }
@@ -30,5 +30,8 @@ class Solution {
         List<String> li = new ArrayList<>();
         fun(s,li,list);
         return list;
+        
+
+        
     }
 }
