@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MeetGoyal27/data-structure/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/MeetGoyal27/data-structure/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -124,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/MeetGoyal27/data-structure/tree/master/0216-combination-sum-iii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/MeetGoyal27/data-structure/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0090-subsets-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
 | ------- |
