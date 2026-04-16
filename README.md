@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/MeetGoyal27/data-structure/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MeetGoyal27/data-structure/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MeetGoyal27/data-structure/tree/master/0079-word-search) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
