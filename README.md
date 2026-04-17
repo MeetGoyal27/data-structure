@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MeetGoyal27/data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/MeetGoyal27/data-structure/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MeetGoyal27/data-structure/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MeetGoyal27/data-structure/tree/master/0020-valid-parentheses) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MeetGoyal27/data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MeetGoyal27/data-structure/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/MeetGoyal27/data-structure/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/MeetGoyal27/data-structure/tree/master/0496-next-greater-element-i) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MeetGoyal27/data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
