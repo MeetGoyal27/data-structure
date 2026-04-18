@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/MeetGoyal27/data-structure/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/MeetGoyal27/data-structure/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MeetGoyal27/data-structure/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MeetGoyal27/data-structure/tree/master/2073-time-needed-to-buy-tickets) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/MeetGoyal27/data-structure/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
