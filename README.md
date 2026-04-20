@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MeetGoyal27/data-structure/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/MeetGoyal27/data-structure/tree/master/0050-powx-n) |
 ## String
 |  |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MeetGoyal27/data-structure/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
