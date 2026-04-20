@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/MeetGoyal27/data-structure/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/MeetGoyal27/data-structure/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/MeetGoyal27/data-structure/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/MeetGoyal27/data-structure/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/MeetGoyal27/data-structure/tree/master/0904-fruit-into-baskets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MeetGoyal27/data-structure/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/MeetGoyal27/data-structure/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/MeetGoyal27/data-structure/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/MeetGoyal27/data-structure/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/MeetGoyal27/data-structure/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MeetGoyal27/data-structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/MeetGoyal27/data-structure/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MeetGoyal27/data-structure/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting
