@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/MeetGoyal27/data-structure/tree/master/0134-gas-station) |
 | [0216-combination-sum-iii](https://github.com/MeetGoyal27/data-structure/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/MeetGoyal27/data-structure/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/MeetGoyal27/data-structure/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/MeetGoyal27/data-structure/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/MeetGoyal27/data-structure/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/MeetGoyal27/data-structure/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/MeetGoyal27/data-structure/tree/master/0025-reverse-nodes-in-k-group) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MeetGoyal27/data-structure/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MeetGoyal27/data-structure/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
