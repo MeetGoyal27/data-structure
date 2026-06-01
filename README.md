@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/MeetGoyal27/data-structure/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MeetGoyal27/data-structure/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/MeetGoyal27/data-structure/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/MeetGoyal27/data-structure/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/MeetGoyal27/data-structure/tree/master/0055-jump-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MeetGoyal27/data-structure/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MeetGoyal27/data-structure/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/MeetGoyal27/data-structure/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MeetGoyal27/data-structure/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/MeetGoyal27/data-structure/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MeetGoyal27/data-structure/tree/master/0135-candy) |
