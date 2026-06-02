@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MeetGoyal27/data-structure/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/MeetGoyal27/data-structure/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MeetGoyal27/data-structure/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/MeetGoyal27/data-structure/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/MeetGoyal27/data-structure/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/MeetGoyal27/data-structure/tree/master/0901-online-stock-span) |
 ## Design
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/MeetGoyal27/data-structure/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MeetGoyal27/data-structure/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MeetGoyal27/data-structure/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MeetGoyal27/data-structure/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MeetGoyal27/data-structure/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
