@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/MeetGoyal27/data-structure/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MeetGoyal27/data-structure/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/MeetGoyal27/data-structure/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/MeetGoyal27/data-structure/tree/master/0263-ugly-number) |
 | [3099-harshad-number](https://github.com/MeetGoyal27/data-structure/tree/master/3099-harshad-number) |
 ## Recursion
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MeetGoyal27/data-structure/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MeetGoyal27/data-structure/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MeetGoyal27/data-structure/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/MeetGoyal27/data-structure/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MeetGoyal27/data-structure/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MeetGoyal27/data-structure/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MeetGoyal27/data-structure/tree/master/0084-largest-rectangle-in-histogram) |
