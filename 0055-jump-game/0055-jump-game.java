@@ -6,10 +6,12 @@ class Solution {
             if(i>max){
                 return false;
             }
+            if(max >= nums.length-1){
+                return true;
+            }
             max = Math.max(max,i+nums[i]);
             i++;
         }
         return true;
-        
     }
 }
