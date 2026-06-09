@@ -10,7 +10,7 @@ class Solution {
             int[] second = intervals[i];
             int sf = second[0];
             int ss = second[1];
-            if(fs >= sf){
+            if(sf <= fs){
                 first[0] = Math.min(ff,sf);
                 first[1] = Math.max(fs,ss);
             }
