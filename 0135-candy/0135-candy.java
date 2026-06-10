@@ -18,7 +18,5 @@ class Solution {
             sum += x;
         }
         return sum;
-
-        
     }
 }
