@@ -16,14 +16,14 @@
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> list = new ArrayList<>();
+        Queue<TreeNode> q = new LinkedList<>();
         if(root == null){
             return list;
-        }
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
+        }        
         int level = 0;
+        q.offer(root);
         while(q.size()>0){
-            if(level %2 == 0){
+            if(level % 2 == 0){
                 int size = q.size();
                 List<Integer> l1 = new ArrayList<>();
                 for(int i=0;i<size;i++){
@@ -58,5 +58,6 @@ class Solution {
             }
         }
         return list;
+
     }
 }
