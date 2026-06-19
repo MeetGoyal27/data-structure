@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MeetGoyal27/data-structure/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/MeetGoyal27/data-structure/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/MeetGoyal27/data-structure/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/MeetGoyal27/data-structure/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/MeetGoyal27/data-structure/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MeetGoyal27/data-structure/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MeetGoyal27/data-structure/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/MeetGoyal27/data-structure/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/MeetGoyal27/data-structure/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MeetGoyal27/data-structure/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/MeetGoyal27/data-structure/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/MeetGoyal27/data-structure/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MeetGoyal27/data-structure/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/MeetGoyal27/data-structure/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/MeetGoyal27/data-structure/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
