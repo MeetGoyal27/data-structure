@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/MeetGoyal27/data-structure/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0222-count-complete-tree-nodes) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MeetGoyal27/data-structure/tree/master/0033-search-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0222-count-complete-tree-nodes) |
 | [0875-koko-eating-bananas](https://github.com/MeetGoyal27/data-structure/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MeetGoyal27/data-structure/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/MeetGoyal27/data-structure/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MeetGoyal27/data-structure/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/MeetGoyal27/data-structure/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
