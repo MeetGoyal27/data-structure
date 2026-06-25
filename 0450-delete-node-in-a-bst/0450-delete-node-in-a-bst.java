@@ -14,37 +14,37 @@
  * }
  */
 class Solution {
-    public static TreeNode findInorderSuccessor(TreeNode root){
-        while(root.left!=null){
-            root=root.left;
+    public TreeNode findPre(TreeNode node){
+        while(node.right != null){
+            node = node.right;
         }
-        return root;
+        return node;
     }
     public TreeNode deleteNode(TreeNode root, int key) {
-         if (root == null) {
-        return null;
-    }
-
-        if(root.val<key){
-            root.right=deleteNode(root.right,key);
-        }else if(root.val>key){
-            root.left=deleteNode(root.left,key);
-        }else{
-            // case 1 leaf node
-            if(root.left==null&&root.right==null){
+        if(root == null){
+            return null;
+        }
+        if(root.val > key){
+            root.left = deleteNode(root.left,key);
+        }
+        else if(root.val < key){
+            root.right = deleteNode(root.right,key);
+        }
+        else{
+            if(root.left == null && root.right == null){
                 return null;
             }
-            //case 2 one child
-            if(root.left==null)
-            {
+            if(root.left == null){
                 return root.right;
-            }else if(root.right==null){
+            }
+            else if(root.right == null){
                 return root.left;
             }
-            //case 3 two child
-            TreeNode IS=findInorderSuccessor(root.right);
-            root.val=IS.val;
-            root.right=deleteNode(root.right,IS.val);
+            else{
+                TreeNode node = findPre(root.left);
+                root.val = node.val;
+                root.left = deleteNode(root.left,node.val);
+            }
         }
         return root;
     }
