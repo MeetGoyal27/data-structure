@@ -32,6 +32,9 @@ class Solution {
         if(root == null){
             return false;
         }
+        if(subRoot == null){
+            return true;
+        }
         if(root.val == subRoot.val && isSameTree(root,subRoot)){
             return true;
         }
