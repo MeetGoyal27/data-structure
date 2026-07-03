@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MeetGoyal27/data-structure/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/MeetGoyal27/data-structure/tree/master/0904-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/MeetGoyal27/data-structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MeetGoyal27/data-structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/MeetGoyal27/data-structure/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/MeetGoyal27/data-structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/MeetGoyal27/data-structure/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/MeetGoyal27/data-structure/tree/master/1020-number-of-enclaves) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MeetGoyal27/data-structure/tree/master/0547-number-of-provinces) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/MeetGoyal27/data-structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1791-find-center-of-star-graph](https://github.com/MeetGoyal27/data-structure/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeetGoyal27/data-structure/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MeetGoyal27/data-structure/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MeetGoyal27/data-structure/tree/master/0547-number-of-provinces) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/MeetGoyal27/data-structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/MeetGoyal27/data-structure/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeetGoyal27/data-structure/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
