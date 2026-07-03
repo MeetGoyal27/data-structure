@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/MeetGoyal27/data-structure/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MeetGoyal27/data-structure/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1765-map-of-highest-peak](https://github.com/MeetGoyal27/data-structure/tree/master/1765-map-of-highest-peak) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MeetGoyal27/data-structure/tree/master/2073-time-needed-to-buy-tickets) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MeetGoyal27/data-structure/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/MeetGoyal27/data-structure/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MeetGoyal27/data-structure/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/MeetGoyal27/data-structure/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/MeetGoyal27/data-structure/tree/master/1765-map-of-highest-peak) |
 ## Simulation
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/MeetGoyal27/data-structure/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/MeetGoyal27/data-structure/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MeetGoyal27/data-structure/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MeetGoyal27/data-structure/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/MeetGoyal27/data-structure/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/MeetGoyal27/data-structure/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/MeetGoyal27/data-structure/tree/master/1609-even-odd-tree) |
 | [1765-map-of-highest-peak](https://github.com/MeetGoyal27/data-structure/tree/master/1765-map-of-highest-peak) |
@@ -484,5 +488,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MeetGoyal27/data-structure/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MeetGoyal27/data-structure/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/MeetGoyal27/data-structure/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeetGoyal27/data-structure/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
