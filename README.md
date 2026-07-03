@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/MeetGoyal27/data-structure/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/MeetGoyal27/data-structure/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/MeetGoyal27/data-structure/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/MeetGoyal27/data-structure/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MeetGoyal27/data-structure/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/MeetGoyal27/data-structure/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MeetGoyal27/data-structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/MeetGoyal27/data-structure/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/MeetGoyal27/data-structure/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MeetGoyal27/data-structure/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MeetGoyal27/data-structure/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/MeetGoyal27/data-structure/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/MeetGoyal27/data-structure/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/MeetGoyal27/data-structure/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MeetGoyal27/data-structure/tree/master/0733-flood-fill) |
 ## Simulation
 |  |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/MeetGoyal27/data-structure/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MeetGoyal27/data-structure/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MeetGoyal27/data-structure/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/MeetGoyal27/data-structure/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MeetGoyal27/data-structure/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MeetGoyal27/data-structure/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0662-maximum-width-of-binary-tree) |
