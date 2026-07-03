@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MeetGoyal27/data-structure/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1765-map-of-highest-peak](https://github.com/MeetGoyal27/data-structure/tree/master/1765-map-of-highest-peak) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MeetGoyal27/data-structure/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MeetGoyal27/data-structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MeetGoyal27/data-structure/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/MeetGoyal27/data-structure/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MeetGoyal27/data-structure/tree/master/0733-flood-fill) |
+| [1765-map-of-highest-peak](https://github.com/MeetGoyal27/data-structure/tree/master/1765-map-of-highest-peak) |
 ## Simulation
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/MeetGoyal27/data-structure/tree/master/1609-even-odd-tree) |
+| [1765-map-of-highest-peak](https://github.com/MeetGoyal27/data-structure/tree/master/1765-map-of-highest-peak) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeetGoyal27/data-structure/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
