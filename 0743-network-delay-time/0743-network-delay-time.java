@@ -28,7 +28,7 @@ class Solution {
                 }
             }
         }
-        int ans = Integer.MIN_VALUE;
+        int ans = -1;
         for(int x : dist){
             ans = Math.max(x,ans);
         }
