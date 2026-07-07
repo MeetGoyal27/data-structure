@@ -1,41 +1,38 @@
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
-        ArrayList<ArrayList<int[]>> list = new ArrayList<>();
-        for(int i = 0;i<n;i++){
-            list.add(new ArrayList<>());
+        ArrayList<ArrayList<int[]>> adj = new ArrayList<>();
+        for(int i=0;i<n;i++){
+            adj.add(new ArrayList<>());
         }
-        for(int[] time : times){
-            int u = time[0]-1;
-            int v = time[1]-1;
-            int w = time[2];
-           list.get(u).add(new int[]{v,w});
+        for(int[] edge : times){
+            int u = edge[0]-1;
+            int v = edge[1]-1;
+            int w = edge[2];
+            adj.get(u).add(new int[]{v,w});
         }
-       int[] ans = new int[n];
-       PriorityQueue<int[]> q = new PriorityQueue<>(new Comparator<int[]>(){
-        public int compare(int[] p1,int[] p2){
-            return p1[1] - p2[1];
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->Integer.compare(a[1],b[1]));
+        pq.offer(new int[]{k-1,0});
+        int[] dist = new int[n];
+        Arrays.fill(dist,Integer.MAX_VALUE);
+        dist[k-1] = 0;
+        while(pq.size()>0){
+            int[] pair = pq.poll();
+            int u = pair[0];
+            int d = pair[1];
+            for(int[] neighbour : adj.get(u)){
+                int v = neighbour[0];
+                int w = neighbour[1];
+                if(dist[u]+w<dist[v]){
+                    dist[v] = dist[u]+w;
+                    pq.offer(new int[]{v,dist[v]});
+                }
+            }
         }
-       });
-       q.add(new int[]{k-1,0});
-       Arrays.fill(ans,Integer.MAX_VALUE);
-       ans[k-1] = 0;
-       while(q.size()>0){
-          int[] temp = q.poll();
-          int u = temp[0];
-          int d = temp[1];
-          for(int[] neighbour : list.get(u)){
-             int v = neighbour[0];
-             int w = neighbour[1];
-             if(ans[u] + w < ans[v]){
-                ans[v] = ans[u] + w;
-                q.offer(new int[]{v,ans[v]});
-             }
-          }
-       }
-       int res = Integer.MIN_VALUE;
-       for(int i : ans){
-        res = Math.max(i,res);
-       }
-       return (res == Integer.MAX_VALUE) ? -1 : res;
+        int ans = Integer.MIN_VALUE;
+        for(int x : dist){
+            ans = Math.max(x,ans);
+        }
+        return ans == Integer.MAX_VALUE ? -1 : ans;
+
     }
 }
