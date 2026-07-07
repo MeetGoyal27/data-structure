@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/MeetGoyal27/data-structure/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MeetGoyal27/data-structure/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/MeetGoyal27/data-structure/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/MeetGoyal27/data-structure/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MeetGoyal27/data-structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/MeetGoyal27/data-structure/tree/master/0951-flip-equivalent-binary-trees) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MeetGoyal27/data-structure/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/MeetGoyal27/data-structure/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/MeetGoyal27/data-structure/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MeetGoyal27/data-structure/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/MeetGoyal27/data-structure/tree/master/1020-number-of-enclaves) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/MeetGoyal27/data-structure/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/MeetGoyal27/data-structure/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/MeetGoyal27/data-structure/tree/master/0743-network-delay-time) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MeetGoyal27/data-structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1791-find-center-of-star-graph](https://github.com/MeetGoyal27/data-structure/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeetGoyal27/data-structure/tree/master/2685-count-the-number-of-complete-components) |
@@ -510,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/MeetGoyal27/data-structure/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/MeetGoyal27/data-structure/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
