@@ -1,87 +1,64 @@
-/**
- * Solution class to determine if a set of equations involving single-letter
- * variables can be satisfied.
- * It utilizes the Disjoint Set Union (DSU) data structure (also known as Union-Find)
- * to manage equivalence relations between variables.
- */
 class Solution {
-
-    // rank array for optimizing union operations (union by rank)
-    // rank[i] stores the rank (approximate height) of the tree rooted at i.
-    public static int[] rank;
-
-    // parent array for representing the Disjoint Set Union structure
-    // parent[i] stores the parent of element i. If parent[i] == i, then i is the root of its set.
-    public static int[] parent;
-
-    public int find(int x) {
-        if (x == parent[x])
-            return x;
-
-        return parent[x] = find(parent[x]);
-    }
-
-    public void union(int x, int y) {
-        int x_root = find(x);
-        int y_root = find(y);
-
-        if (x_root == y_root)
-            return;
-
-        if (rank[x_root] < rank[y_root]) {
-            parent[x_root] = y_root;
-        } else if (rank[y_root] < rank[x_root]) {
-            parent[y_root] = x_root;
-        } else {
-            parent[x_root] = y_root;
-            rank[y_root]++;
-        }
-    }
-
-    public boolean equationsPossible(String[] eq) {
-        // Initialize rank and parent arrays for 26 lowercase English letters.
-        // 'a' corresponds to index 0, 'b' to 1, ..., 'z' to 25.
-        rank = new int[26];
-        parent = new int[26];
-
-        // Initialize ranks to 0.
-        Arrays.fill(rank, 0);
-
-        // Each character is initially in its own set (itself is its parent).
-        for (int i = 0; i < 26; i++)
-            parent[i] = i;
-
-        // First pass: Process all '==' (equality) equations.
-        // These equations establish equivalence relations between variables.
-        for (var c : eq) {
-            // Check if the operator is '=='
-            if (c.charAt(1) == '=') {
-                // Convert characters to 0-25 integer indices by subtracting 'a'.
-                // Then, unite the sets of these two variables.
-                union(c.charAt(0) - 'a', c.charAt(3) - 'a');
+    public boolean equationsPossible(String[] equations) {
+        DisjointSet dsu = new DisjointSet(26);
+        ArrayList<int[]> notEqualEdges = new ArrayList<>();
+        for(String equation : equations){
+            int u = equation.charAt(0) - 'a';
+            int v = equation.charAt(3) - 'a';
+            //construct graphs using "equal to" equations
+            if(equation.charAt(1)== '='){
+                dsu.unionBySize(u,v);
+            }else{ //store "not equal" equations
+                notEqualEdges.add(new int[]{u,v});
             }
         }
-
-        // Second pass: Process all '!=' (inequality) equations.
-        // Now, we check if any '!=' equation contradicts the established equivalences.
-        for (var c : eq) {
-            // Check if the operator is '!'
-            if (c.charAt(1) == '!') {
-                // Find the roots (representatives) of the sets for both variables.
-                // It's crucial to convert characters to 0-25 indices first.
-                int first_par_root = find(c.charAt(0) - 'a');
-                int second_par_root = find(c.charAt(3) - 'a');
-
-                // If the roots are the same, it means the two variables are in the same set
-                // (i.e., they are equivalent according to '==' equations).
-                // However, the current equation states they are not equal, which is a contradiction.
-                if (first_par_root == second_par_root)
-                    return false; // Contradiction found, so return false.
+        for(int edge[] : notEqualEdges){
+            int u = edge[0];
+            int v = edge[1];
+            if(dsu.findRootParent(u) == dsu.findRootParent(v)){
+                return false;
             }
         }
+        return true;
+    }
+}
 
-        // If the second pass completes without finding any contradictions,
-        // it means all equations can be satisfied.
+
+
+class DisjointSet {
+    int parent[];
+    int size[];
+    DisjointSet(int nodes){
+        this.parent = new int[nodes];
+        this.size = new int[nodes];
+        for(int i=0;i<nodes;i++){
+            this.parent[i] = i;
+            this.size[i] = 1;
+        }
+    }
+
+    public int findRootParent(int node){
+        if(node == parent[node]){
+            return node;
+        }
+        parent[node] = findRootParent(parent[node]);
+        return parent[node];
+    }
+    public boolean unionBySize(int node1, int node2){
+        //1. find the root parent
+        int rootParent1 = findRootParent(node1);
+        int rootParent2 = findRootParent(node2);
+        if(rootParent1==rootParent2){
+            return false;
+        }
+        // 2, union of components
+        if(size[rootParent1]<size[rootParent2]){
+            parent[rootParent1] = rootParent2;
+            size[rootParent2] += size[rootParent1];
+        }else {
+            parent[rootParent2] = rootParent1;
+            size[rootParent1] += size[rootParent2];
+        }
         return true;
     }
 }
