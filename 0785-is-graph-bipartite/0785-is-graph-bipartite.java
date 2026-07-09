@@ -20,9 +20,9 @@ class Solution {
         return true;
     }
     public boolean isBipartite(int[][] graph) {
-        Queue<Integer> q = new LinkedList<>();
         int[] color = new int[graph.length];
         Arrays.fill(color,-1);
+        Queue<Integer> q = new LinkedList<>();
         for(int i=0;i<color.length;i++){
             if(color[i] == -1){
                 if(bfs(i,color,graph,q) == false){
@@ -30,6 +30,6 @@ class Solution {
                 }
             }
         }
-        return true;
+        return true;        
     }
 }
