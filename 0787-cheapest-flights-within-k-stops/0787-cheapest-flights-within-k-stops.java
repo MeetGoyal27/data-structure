@@ -9,12 +9,12 @@ class Solution {
                 int u = edge[0];
                 int v = edge[1];
                 int w = edge[2];
-                if(dist[u] != Integer.MAX_VALUE && dist[u]+w<temp[v]){
-                    temp[v] = dist[u]+w;
+                if(dist[u] != Integer.MAX_VALUE && dist[u]+w < temp[v]){
+                    temp[v] = dist[u] + w;
                 }
             }
             dist = temp;
         }        
-        return dist[dst] == Integer.MAX_VALUE ? -1 : dist[dst];
+        return dist[dst] == Integer.MAX_VALUE ? -1  : dist[dst];
     }
 }
