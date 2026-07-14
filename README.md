@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MeetGoyal27/data-structure/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MeetGoyal27/data-structure/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MeetGoyal27/data-structure/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/MeetGoyal27/data-structure/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MeetGoyal27/data-structure/tree/master/0263-ugly-number) |
 | [1025-divisor-game](https://github.com/MeetGoyal27/data-structure/tree/master/1025-divisor-game) |
 | [3099-harshad-number](https://github.com/MeetGoyal27/data-structure/tree/master/3099-harshad-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/MeetGoyal27/data-structure/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MeetGoyal27/data-structure/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/MeetGoyal27/data-structure/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/MeetGoyal27/data-structure/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/MeetGoyal27/data-structure/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/MeetGoyal27/data-structure/tree/master/0435-non-overlapping-intervals) |
@@ -550,4 +552,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/MeetGoyal27/data-structure/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MeetGoyal27/data-structure/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MeetGoyal27/data-structure/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
