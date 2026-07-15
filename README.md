@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/MeetGoyal27/data-structure/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MeetGoyal27/data-structure/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/MeetGoyal27/data-structure/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MeetGoyal27/data-structure/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MeetGoyal27/data-structure/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/MeetGoyal27/data-structure/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MeetGoyal27/data-structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/MeetGoyal27/data-structure/tree/master/0990-satisfiability-of-equality-equations) |
+| [1192-critical-connections-in-a-network](https://github.com/MeetGoyal27/data-structure/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MeetGoyal27/data-structure/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/MeetGoyal27/data-structure/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/MeetGoyal27/data-structure/tree/master/2685-count-the-number-of-complete-components) |
@@ -560,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MeetGoyal27/data-structure/tree/master/0204-count-primes) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/MeetGoyal27/data-structure/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
