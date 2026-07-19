@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/MeetGoyal27/data-structure/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/MeetGoyal27/data-structure/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/MeetGoyal27/data-structure/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/MeetGoyal27/data-structure/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/MeetGoyal27/data-structure/tree/master/0904-fruit-into-baskets) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/MeetGoyal27/data-structure/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MeetGoyal27/data-structure/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/MeetGoyal27/data-structure/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MeetGoyal27/data-structure/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/MeetGoyal27/data-structure/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/1137-n-th-tribonacci-number) |
