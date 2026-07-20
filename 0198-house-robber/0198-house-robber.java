@@ -20,6 +20,7 @@ class Solution {
         int n = nums.length;
         int[] dp = new int[n+1];
         Arrays.fill(dp,-1);
-        return recur(0,nums,dp);
+        recur(0,nums,dp);
+        return dp[0];
     }
 }
