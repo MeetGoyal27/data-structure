@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MeetGoyal27/data-structure/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/MeetGoyal27/data-structure/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MeetGoyal27/data-structure/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MeetGoyal27/data-structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MeetGoyal27/data-structure/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MeetGoyal27/data-structure/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/MeetGoyal27/data-structure/tree/master/0134-gas-station) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MeetGoyal27/data-structure/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeetGoyal27/data-structure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MeetGoyal27/data-structure/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/MeetGoyal27/data-structure/tree/master/0455-assign-cookies) |
