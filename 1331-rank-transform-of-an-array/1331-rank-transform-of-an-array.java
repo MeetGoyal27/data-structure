@@ -1,12 +1,12 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        int rank= 1;
         int[] nums = Arrays.copyOf(arr,arr.length);
+        HashMap<Integer,Integer> map = new HashMap<>();
         Arrays.sort(nums);
-        for(int x : nums){
-            if(!map.containsKey(x)){
-                map.put(x,rank);
+        int rank = 1;
+        for(int i=0;i<nums.length;i++){
+            if(!map.containsKey(nums[i])){
+                map.put(nums[i],rank);
                 rank++;
             }
         }
@@ -14,6 +14,5 @@ class Solution {
             arr[i] = map.get(arr[i]);
         }
         return arr;
-
     }
 }
