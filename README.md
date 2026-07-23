@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MeetGoyal27/data-structure/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/MeetGoyal27/data-structure/tree/master/0743-network-delay-time) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MeetGoyal27/data-structure/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/MeetGoyal27/data-structure/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MeetGoyal27/data-structure/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MeetGoyal27/data-structure/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MeetGoyal27/data-structure/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MeetGoyal27/data-structure/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/MeetGoyal27/data-structure/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -607,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MeetGoyal27/data-structure/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
