@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MeetGoyal27/data-structure/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MeetGoyal27/data-structure/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MeetGoyal27/data-structure/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/MeetGoyal27/data-structure/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/MeetGoyal27/data-structure/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MeetGoyal27/data-structure/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/0509-fibonacci-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MeetGoyal27/data-structure/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MeetGoyal27/data-structure/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/MeetGoyal27/data-structure/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/MeetGoyal27/data-structure/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MeetGoyal27/data-structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MeetGoyal27/data-structure/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/1137-n-th-tribonacci-number) |
 ## Quickselect
