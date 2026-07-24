@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MeetGoyal27/data-structure/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/MeetGoyal27/data-structure/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/MeetGoyal27/data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MeetGoyal27/data-structure/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MeetGoyal27/data-structure/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/MeetGoyal27/data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MeetGoyal27/data-structure/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/MeetGoyal27/data-structure/tree/master/0901-online-stock-span) |
 ## Greedy
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/MeetGoyal27/data-structure/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/MeetGoyal27/data-structure/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/MeetGoyal27/data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MeetGoyal27/data-structure/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MeetGoyal27/data-structure/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/MeetGoyal27/data-structure/tree/master/0743-network-delay-time) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MeetGoyal27/data-structure/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeetGoyal27/data-structure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MeetGoyal27/data-structure/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/MeetGoyal27/data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/MeetGoyal27/data-structure/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MeetGoyal27/data-structure/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/MeetGoyal27/data-structure/tree/master/0977-squares-of-a-sorted-array) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/MeetGoyal27/data-structure/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/MeetGoyal27/data-structure/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/MeetGoyal27/data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MeetGoyal27/data-structure/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/MeetGoyal27/data-structure/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MeetGoyal27/data-structure/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
