@@ -1,12 +1,12 @@
 class Solution {
     public int recur(int row,int col,int m,int n,int[][] dp){
-        if(row == m || col == n){
+        if(row==m || col == n){
             dp[row][col] = 0;
-            return 0;
+            return dp[row][col];
         }
         if(row == m-1 && col == n-1){
             dp[row][col] = 1;
-            return 1;
+            return dp[row][col];
         }
         if(dp[row][col] != -1){
             return dp[row][col];
@@ -21,7 +21,6 @@ class Solution {
         for(int[] row : dp){
             Arrays.fill(row,-1);
         }
-        return recur(0,0,m,n,dp);
-        
+        return recur(0,0,m,n,dp);        
     }
 }
