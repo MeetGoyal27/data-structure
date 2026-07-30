@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/MeetGoyal27/data-structure/tree/master/0449-serialize-and-deserialize-bst) |
 | [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/MeetGoyal27/data-structure/tree/master/0990-satisfiability-of-equality-equations) |
+| [1143-longest-common-subsequence](https://github.com/MeetGoyal27/data-structure/tree/master/1143-longest-common-subsequence) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/MeetGoyal27/data-structure/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/MeetGoyal27/data-structure/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/MeetGoyal27/data-structure/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
