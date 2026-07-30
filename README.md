@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MeetGoyal27/data-structure/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MeetGoyal27/data-structure/tree/master/0449-serialize-and-deserialize-bst) |
+| [0583-delete-operation-for-two-strings](https://github.com/MeetGoyal27/data-structure/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/MeetGoyal27/data-structure/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/MeetGoyal27/data-structure/tree/master/1143-longest-common-subsequence) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/MeetGoyal27/data-structure/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/MeetGoyal27/data-structure/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MeetGoyal27/data-structure/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MeetGoyal27/data-structure/tree/master/0718-maximum-length-of-repeated-subarray) |
