@@ -1,32 +1,22 @@
 class Solution {
-    public int recur(int i,int j,String text1,String text2,int[][] dp){
-        if(i==text1.length() || j==text2.length())
-        {
-            return 0;
-        }
-        if(dp[i][j] != -1){
-            return dp[i][j];
-        }
-        if(text1.charAt(i) == text2.charAt(j)){
-            dp[i][j] = 1 + recur(i+1,j+1,text1,text2,dp);
-            return dp[i][j];
-        }
-        else{
-            int case1 = recur(i+1,j,text1,text2,dp);
-            int case2 = recur(i,j+1,text1,text2,dp);
-           dp[i][j] =  Math.max(case1,case2);
-           return dp[i][j];
-        }
-    }
     public int minInsertions(String s) {
-        String s1 = new StringBuilder(s).reverse().toString();
+        String t = new StringBuilder(s).reverse().toString();
         int m = s.length();
-        int n = s1.length();
+        int n = t.length();
         int[][] dp = new int[m+1][n+1];
-        for(int[] row : dp){
-            Arrays.fill(row,-1);
+        for(int i=1;i<dp.length;i++){
+            for(int j=1;j<dp[0].length;j++){
+                if(s.charAt(i-1) == t.charAt(j-1)){
+                    dp[i][j] = 1+dp[i-1][j-1];
+                }
+                else{
+                    dp[i][j] = Math.max(dp[i-1][j],dp[i][j-1]);
+                }
+            }
         }
-        int x = recur(0,0,s,s1,dp);
-        return m-x;
+        int ans = dp[m][n];
+        int length = s.length();
+        return length-ans;
+        
     }
 }
