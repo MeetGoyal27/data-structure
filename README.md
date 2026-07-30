@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/MeetGoyal27/data-structure/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/MeetGoyal27/data-structure/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MeetGoyal27/data-structure/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/MeetGoyal27/data-structure/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/MeetGoyal27/data-structure/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MeetGoyal27/data-structure/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Matrix
 |  |
 | ------- |
