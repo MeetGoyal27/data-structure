@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MeetGoyal27/data-structure/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MeetGoyal27/data-structure/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/MeetGoyal27/data-structure/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/MeetGoyal27/data-structure/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/0509-fibonacci-number) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MeetGoyal27/data-structure/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MeetGoyal27/data-structure/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeetGoyal27/data-structure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/MeetGoyal27/data-structure/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/MeetGoyal27/data-structure/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MeetGoyal27/data-structure/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/MeetGoyal27/data-structure/tree/master/0257-binary-tree-paths) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MeetGoyal27/data-structure/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/MeetGoyal27/data-structure/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MeetGoyal27/data-structure/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MeetGoyal27/data-structure/tree/master/0055-jump-game) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MeetGoyal27/data-structure/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/MeetGoyal27/data-structure/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MeetGoyal27/data-structure/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
