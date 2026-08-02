@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/MeetGoyal27/data-structure/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MeetGoyal27/data-structure/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MeetGoyal27/data-structure/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2785-sort-vowels-in-a-string](https://github.com/MeetGoyal27/data-structure/tree/master/2785-sort-vowels-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/1331-rank-transform-of-an-array) |
 | [1626-best-team-with-no-conflicts](https://github.com/MeetGoyal27/data-structure/tree/master/1626-best-team-with-no-conflicts) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MeetGoyal27/data-structure/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/MeetGoyal27/data-structure/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
