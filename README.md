@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/MeetGoyal27/data-structure/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/MeetGoyal27/data-structure/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MeetGoyal27/data-structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3819-rotate-non-negative-elements](https://github.com/MeetGoyal27/data-structure/tree/master/3819-rotate-non-negative-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MeetGoyal27/data-structure/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/MeetGoyal27/data-structure/tree/master/3921-score-validator) |
 ## Hash Table
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MeetGoyal27/data-structure/tree/master/2073-time-needed-to-buy-tickets) |
+| [3819-rotate-non-negative-elements](https://github.com/MeetGoyal27/data-structure/tree/master/3819-rotate-non-negative-elements) |
 | [3921-score-validator](https://github.com/MeetGoyal27/data-structure/tree/master/3921-score-validator) |
 ## Data Stream
 |  |
