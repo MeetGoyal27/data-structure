@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/MeetGoyal27/data-structure/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/MeetGoyal27/data-structure/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MeetGoyal27/data-structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/MeetGoyal27/data-structure/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3819-rotate-non-negative-elements](https://github.com/MeetGoyal27/data-structure/tree/master/3819-rotate-non-negative-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/MeetGoyal27/data-structure/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/1331-rank-transform-of-an-array) |
 | [2404-most-frequent-even-element](https://github.com/MeetGoyal27/data-structure/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MeetGoyal27/data-structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/MeetGoyal27/data-structure/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Monotonic Stack
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/MeetGoyal27/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MeetGoyal27/data-structure/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MeetGoyal27/data-structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
