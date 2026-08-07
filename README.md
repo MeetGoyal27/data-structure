@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/MeetGoyal27/data-structure/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/1137-n-th-tribonacci-number) |
+| [2427-number-of-common-factors](https://github.com/MeetGoyal27/data-structure/tree/master/2427-number-of-common-factors) |
 | [3099-harshad-number](https://github.com/MeetGoyal27/data-structure/tree/master/3099-harshad-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MeetGoyal27/data-structure/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MeetGoyal27/data-structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -692,10 +693,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MeetGoyal27/data-structure/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/MeetGoyal27/data-structure/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MeetGoyal27/data-structure/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/MeetGoyal27/data-structure/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MeetGoyal27/data-structure/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MeetGoyal27/data-structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Biconnected Component
@@ -729,4 +732,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MeetGoyal27/data-structure/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/MeetGoyal27/data-structure/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/MeetGoyal27/data-structure/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
