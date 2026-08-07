@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/MeetGoyal27/data-structure/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MeetGoyal27/data-structure/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2785-sort-vowels-in-a-string](https://github.com/MeetGoyal27/data-structure/tree/master/2785-sort-vowels-in-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MeetGoyal27/data-structure/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3921-score-validator](https://github.com/MeetGoyal27/data-structure/tree/master/3921-score-validator) |
 ## Stack
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/MeetGoyal27/data-structure/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MeetGoyal27/data-structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MeetGoyal27/data-structure/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/MeetGoyal27/data-structure/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3819-rotate-non-negative-elements](https://github.com/MeetGoyal27/data-structure/tree/master/3819-rotate-non-negative-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/MeetGoyal27/data-structure/tree/master/3852-smallest-pair-with-different-frequencies) |
