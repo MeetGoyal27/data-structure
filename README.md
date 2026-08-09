@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/MeetGoyal27/data-structure/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MeetGoyal27/data-structure/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3612-process-string-with-special-operations-i](https://github.com/MeetGoyal27/data-structure/tree/master/3612-process-string-with-special-operations-i) |
 | [3921-score-validator](https://github.com/MeetGoyal27/data-structure/tree/master/3921-score-validator) |
 ## Stack
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MeetGoyal27/data-structure/tree/master/2073-time-needed-to-buy-tickets) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/MeetGoyal27/data-structure/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/MeetGoyal27/data-structure/tree/master/3612-process-string-with-special-operations-i) |
 | [3819-rotate-non-negative-elements](https://github.com/MeetGoyal27/data-structure/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MeetGoyal27/data-structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/MeetGoyal27/data-structure/tree/master/3921-score-validator) |
