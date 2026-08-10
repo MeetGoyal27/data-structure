@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MeetGoyal27/data-structure/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1626-best-team-with-no-conflicts](https://github.com/MeetGoyal27/data-structure/tree/master/1626-best-team-with-no-conflicts) |
 | [1765-map-of-highest-peak](https://github.com/MeetGoyal27/data-structure/tree/master/1765-map-of-highest-peak) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MeetGoyal27/data-structure/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MeetGoyal27/data-structure/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MeetGoyal27/data-structure/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/MeetGoyal27/data-structure/tree/master/2404-most-frequent-even-element) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MeetGoyal27/data-structure/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/1331-rank-transform-of-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MeetGoyal27/data-structure/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/MeetGoyal27/data-structure/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/MeetGoyal27/data-structure/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MeetGoyal27/data-structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MeetGoyal27/data-structure/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MeetGoyal27/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MeetGoyal27/data-structure/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/MeetGoyal27/data-structure/tree/master/2404-most-frequent-even-element) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/MeetGoyal27/data-structure/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/MeetGoyal27/data-structure/tree/master/3852-smallest-pair-with-different-frequencies) |
