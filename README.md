@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/MeetGoyal27/data-structure/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MeetGoyal27/data-structure/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MeetGoyal27/data-structure/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1446-consecutive-characters](https://github.com/MeetGoyal27/data-structure/tree/master/1446-consecutive-characters) |
 | [1844-replace-all-digits-with-characters](https://github.com/MeetGoyal27/data-structure/tree/master/1844-replace-all-digits-with-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MeetGoyal27/data-structure/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/MeetGoyal27/data-structure/tree/master/2418-sort-the-people) |
