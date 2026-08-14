@@ -775,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/MeetGoyal27/data-structure/tree/master/2427-number-of-common-factors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MeetGoyal27/data-structure/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
