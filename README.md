@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/MeetGoyal27/data-structure/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MeetGoyal27/data-structure/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MeetGoyal27/data-structure/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MeetGoyal27/data-structure/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/MeetGoyal27/data-structure/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MeetGoyal27/data-structure/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/MeetGoyal27/data-structure/tree/master/0509-fibonacci-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MeetGoyal27/data-structure/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MeetGoyal27/data-structure/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MeetGoyal27/data-structure/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MeetGoyal27/data-structure/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/MeetGoyal27/data-structure/tree/master/0225-implement-stack-using-queues) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/MeetGoyal27/data-structure/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MeetGoyal27/data-structure/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MeetGoyal27/data-structure/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/MeetGoyal27/data-structure/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MeetGoyal27/data-structure/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/MeetGoyal27/data-structure/tree/master/0204-count-primes) |
