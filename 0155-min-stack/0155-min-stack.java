@@ -3,13 +3,13 @@ class MinStack {
     Stack<Integer> min;
 
     public MinStack() {
-        st = new Stack<>();
-        min = new Stack<>();
+        st=new Stack<>();
+        min=new Stack<>();    
     }
     
     public void push(int value) {
         st.push(value);
-        if(min.size() == 0 || value <= min.peek()){
+        if(min.size()==0 || value <= min.peek()){
             min.push(value);
         }
     }
