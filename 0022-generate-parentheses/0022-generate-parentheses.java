@@ -1,19 +1,19 @@
 class Solution {
-    public void fun(int open,int close,List<String> list,String s,int n){
+    public void recur(int open,int close,int n,String str,List<String> list){
         if(open == n && close == n){
-            list.add(s);
+            list.add(str);
             return;
         }
         if(open<n){
-            fun(open+1,close,list,s+"(",n);
+            recur(open+1,close,n,str+"(",list);
         }
         if(open>close){
-            fun(open,close+1,list,s+")",n);
+            recur(open,close+1,n,str+")",list);
         }
     }
     public List<String> generateParenthesis(int n) {
         List<String> list = new ArrayList<>();
-        fun(0,0,list,"",n);
+        recur(0,0,n,"",list);
         return list;
     }
 }
