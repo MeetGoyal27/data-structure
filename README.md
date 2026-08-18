@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MeetGoyal27/data-structure/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MeetGoyal27/data-structure/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/MeetGoyal27/data-structure/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/MeetGoyal27/data-structure/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MeetGoyal27/data-structure/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MeetGoyal27/data-structure/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/MeetGoyal27/data-structure/tree/master/0746-min-cost-climbing-stairs) |
+| [0853-car-fleet](https://github.com/MeetGoyal27/data-structure/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/MeetGoyal27/data-structure/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/MeetGoyal27/data-structure/tree/master/0904-fruit-into-baskets) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MeetGoyal27/data-structure/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/MeetGoyal27/data-structure/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/MeetGoyal27/data-structure/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/MeetGoyal27/data-structure/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/MeetGoyal27/data-structure/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MeetGoyal27/data-structure/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MeetGoyal27/data-structure/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MeetGoyal27/data-structure/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MeetGoyal27/data-structure/tree/master/0646-maximum-length-of-pair-chain) |
+| [0853-car-fleet](https://github.com/MeetGoyal27/data-structure/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/MeetGoyal27/data-structure/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MeetGoyal27/data-structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MeetGoyal27/data-structure/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
