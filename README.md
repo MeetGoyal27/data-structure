@@ -799,4 +799,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MeetGoyal27/data-structure/tree/master/0141-linked-list-cycle) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MeetGoyal27/data-structure/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
