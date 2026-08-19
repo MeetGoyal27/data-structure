@@ -1,69 +1,68 @@
 class Solution {
-    public int[] findNext(int[] arr){
-        Stack<Integer> st = new Stack<>();
-        int n = arr.length;
-        int[] ans = new int[n];
-        for(int i=n-1;i>=0;i--){
-            while(st.size()>0 && arr[i]<=arr[st.peek()]){
-                st.pop();
-            }
-            if(st.isEmpty()){
-                ans[i] = n;
-            }
-            else{
-                ans[i] = st.peek();
-            }
-            st.push(i);
-        }
-        return ans;
-    }
     public int[] findPrevious(int[] arr){
         Stack<Integer> st = new Stack<>();
         int n = arr.length;
-        int[] ans = new int[n];
+        int[] nums = new int[n];
         for(int i=0;i<n;i++){
             while(st.size()>0 && arr[i] <= arr[st.peek()]){
                 st.pop();
             }
-            if(st.isEmpty()){
-                ans[i] = -1;
+            if(st.size() == 0){
+                nums[i] = -1;
             }
             else{
-                ans[i] = st.peek();
+                nums[i] = st.peek();
             }
             st.push(i);
         }
-        return ans;
+        return nums;
+    }
+    public int[] findNext(int[] arr){
+        Stack<Integer> st = new Stack<>();
+        int n = arr.length;
+        int[] nums = new int[n];
+        for(int i=n-1;i>=0;i--){
+            while(st.size()>0 && arr[i] <= arr[st.peek()]){
+                st.pop();
+            }
+            if(st.size() == 0){
+                nums[i] = n;
+            }
+            else{
+                nums[i] = st.peek();
+            }
+            st.push(i);
+        }
+        return nums;
     }
     public int largestRectangleArea(int[] heights) {
-        int[] ps = findPrevious(heights);
+        int n = heights.length;
         int[] ns = findNext(heights);
-        int max = Integer.MIN_VALUE;
-        for(int i=0;i<heights.length;i++){
+        int[] ps = findPrevious(heights);
+        int ans = 0;
+        for(int i=0;i<n;i++){
             int h = heights[i];
-            int w = ns[i] - ps[i] - 1;
-            max = Math.max(max,h*w);
-
+            int w = ns[i] - ps[i] -1;
+            ans = Math.max(ans,h*w);
         }
-        return max;
+        return ans;
     }
     public int maximalRectangle(char[][] matrix) {
-        int max = Integer.MIN_VALUE;
+        int max = 0;
         int[] arr = new int[matrix[0].length];
         for(int i=0;i<matrix.length;i++){
             for(int j=0;j<matrix[0].length;j++){
-                int x = matrix[i][j] - '0';
-                if(x == 0){
-                    arr[j] = 0;
+                int x = matrix[i][j]-'0';
+                if(x == 1){
+                    arr[j] += x;
                 }
                 else{
-                    arr[j] = arr[j] + x;
+                    arr[j] = 0;
                 }
             }
-            int maxArea = largestRectangleArea(arr);
-            max = Math.max(max,maxArea);
+            int area = largestRectangleArea(arr);
+            max=Math.max(max,area);
         }
         return max;
-        
     }
 }
