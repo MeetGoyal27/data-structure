@@ -1,37 +1,33 @@
 class Solution {
-    public boolean isAns(int[] piles,int speed,int h){
-        int ans = 0;
-        for(int i=0;i<piles.length;i++){
-            if(piles[i]%speed == 0){
-                ans += piles[i]/speed;
+    public boolean isPossible(int[] arr,int speed,int limitHours){
+        long currHours=0;
+        for(int x : arr){
+            if(x%speed==0){
+                currHours += (x/speed);
             }
             else{
-                ans += (piles[i]/speed)+1;
-            }
-            if(ans>h){
-                return false;
+                currHours += (x/speed) + 1;
             }
         }
-        return true;
+        return currHours <= limitHours;
     }
     public int minEatingSpeed(int[] piles, int h) {
-        int start = 1;
-        int end = Integer.MIN_VALUE;
-        for(int num : piles){
-            end = Math.max(num,end);
+        int start=1;
+        int end=0;
+        for(int x : piles){
+            end=Math.max(end,x);
         }
-        int ans = -1;
+        int ans=-1;
         while(start<=end){
             int mid = (start+end)/2;
-            if(isAns(piles,mid,h)){
-                ans = mid;
-                end = mid-1;
+            if(isPossible(piles,mid,h)){
+                ans=mid;
+                end=mid-1;
             }
             else{
-                start = mid+1;
+                start=mid+1;
             }
         }
         return ans;
-        
     }
 }
