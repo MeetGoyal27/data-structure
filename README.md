@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/MeetGoyal27/data-structure/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MeetGoyal27/data-structure/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MeetGoyal27/data-structure/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3340-check-balanced-string](https://github.com/MeetGoyal27/data-structure/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/MeetGoyal27/data-structure/tree/master/3612-process-string-with-special-operations-i) |
 | [3921-score-validator](https://github.com/MeetGoyal27/data-structure/tree/master/3921-score-validator) |
 ## Stack
