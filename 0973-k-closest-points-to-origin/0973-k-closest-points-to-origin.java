@@ -11,14 +11,14 @@ class Solution {
         }
         for(int i=0;i<k;i++){
             int[] nums = pq.poll();
-            int distance = nums[0];
+            int dist = nums[0];
             int idx = nums[1];
             list.add(points[idx]);
         }
-        int[][] finalAns = new int[list.size()][];
+        int[][] finl = new int[list.size()][];
         for(int i=0;i<list.size();i++){
-            finalAns[i] = list.get(i);
+            finl[i] = list.get(i);
         }
-        return finalAns;
+        return finl;
     }
 }
