@@ -11,27 +11,24 @@ class Solution {
         }
         return true;
     }
-    public void fun(String st,List<String> li,List<List<String>> list){
-        if(st.length() == 0){
-            list.add(new ArrayList<>(li));
+    public void recur(String s,List<String> ans,List<List<String>> list){
+        if(s.length() == 0){
+            list.add(new ArrayList<>(ans));
             return;
         }
-        for(int i=0;i<st.length();i++){
-            String sub = st.substring(0,i+1);
+        for(int i=0;i<s.length();i++){
+            String sub = s.substring(0,i+1);
             if(isPalindrome(sub)){
-                li.add(sub);
-                fun(st.substring(i+1),li,list);
-                li.remove(li.size()-1);
+                ans.add(sub);
+                recur(s.substring(i+1),ans,list);
+                ans.remove(ans.size()-1);
             }
         }
     }
     public List<List<String>> partition(String s) {
         List<List<String>> list = new ArrayList<>();
-        List<String> li = new ArrayList<>();
-        fun(s,li,list);
+        List<String> ans = new ArrayList<>();
+        recur(s,ans,list);
         return list;
-        
-
-        
     }
 }
