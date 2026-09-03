@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MeetGoyal27/data-structure/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MeetGoyal27/data-structure/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MeetGoyal27/data-structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MeetGoyal27/data-structure/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-rotate-non-negative-elements](https://github.com/MeetGoyal27/data-structure/tree/master/3819-rotate-non-negative-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/MeetGoyal27/data-structure/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MeetGoyal27/data-structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MeetGoyal27/data-structure/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MeetGoyal27/data-structure/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/MeetGoyal27/data-structure/tree/master/3921-score-validator) |
 ## Hash Table
