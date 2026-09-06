@@ -1,46 +1,54 @@
 class Solution {
+    public int recur(int i,int j,String s,String t,int[][] dp){
+        if(i == s.length() || j == t.length()){
+            return 0;
+        }
+        if(dp[i][j] != -1){
+            return dp[i][j];
+        }
+        if(s.charAt(i) == t.charAt(j)){
+            dp[i][j] = 1+recur(i+1,j+1,s,t,dp);
+            return dp[i][j];
+        }
+        else{
+            dp[i][j] = Math.max(recur(i+1,j,s,t,dp),recur(i,j+1,s,t,dp));
+            return dp[i][j];
+        }
+    }
     public String shortestCommonSupersequence(String str1, String str2) {
         int m = str1.length();
         int n = str2.length();
         int[][] dp = new int[m+1][n+1];
-        for(int i=1;i<dp.length;i++){
-            for(int j=1;j<dp[0].length;j++){
-                if(str1.charAt(i-1) == str2.charAt(j-1)){
-                    dp[i][j] = 1+dp[i-1][j-1];
-                }
-                else{
-                    dp[i][j] = Math.max(dp[i-1][j],dp[i][j-1]);
-                }
-            }
+        for(int[] row : dp){
+            Arrays.fill(row,-1);
         }
-        int i=m;
-        int j=n;
+        int len = recur(0,0,str1,str2,dp);
+        int i=0;
+        int j=0;
         StringBuilder sb = new StringBuilder();
-        while(i>0 && j>0){
-            if(str1.charAt(i-1) == str2.charAt(j-1)){
-                sb.append(str1.charAt(i-1));
-                i--;
-                j--;
+        while(i<m && j<n){
+            if(str1.charAt(i) == str2.charAt(j)){
+                sb.append(str1.charAt(i));
+                i++;
+                j++;
+            }
+            else if(dp[i+1][j] >= dp[i][j+1]){
+                sb.append(str1.charAt(i));
+                i++;
             }
             else{
-                if(dp[i-1][j] >= dp[i][j-1]){
-                    sb.append(str1.charAt(i-1));
-                    i--;
-                }
-                else{
-                    sb.append(str2.charAt(j-1));
-                    j--;
-                }
+                sb.append(str2.charAt(j));
+                j++;
             }
         }
-        while(i>0){
-            sb.append(str1.charAt(i-1));;
-            i--;
+        while(i<m){
+            sb.append(str1.charAt(i));
+            i++;
         }
-        while(j>0){
-            sb.append(str2.charAt(j-1));
-            j--;
+        while(j<n){
+            sb.append(str2.charAt(j));
+            j++;
         }
-        return sb.reverse().toString();
+        return sb.toString();
     }
 }
