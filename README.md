@@ -857,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/MeetGoyal27/data-structure/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/MeetGoyal27/data-structure/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
